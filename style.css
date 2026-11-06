@@ -4,3 +4,9 @@
 .hero .hero-top{letter-spacing:0;font-size:17px;margin-bottom:140px}.hero h1{font-family:Arial,sans-serif;font-weight:700;font-size:clamp(68px,8.5vw,125px);line-height:1.26;letter-spacing:-.035em;margin-bottom:28px}.hero .subtitle{font-family:Arial,sans-serif;font-size:clamp(25px,3.2vw,42px);line-height:1.4}.hero .button{margin-top:auto;background:#15201530}
 .continuation{max-width:750px;margin:55px auto 0;font-size:23px;line-height:1.5}.continuation p{margin:0 0 28px}.continuation .large{font-size:clamp(31px,3.4vw,52px);line-height:1.18}.time-note{padding:35px 38px;font-style:italic;border-left:1px solid #6f568c66}.time-note .large{font-size:30px;line-height:1.45}.rhythm-note .italic-large{font-size:38px;line-height:1.2}.about{border-bottom:0}.about-note .italic{font-size:26px}.join{border-top:0}.index{text-transform:none}
 @media(max-width:700px){.hero.forest{min-height:780px;background-position:58% center;padding:38px 8vw 65px}.hero .hero-top{font-size:14px;margin-bottom:145px}.hero h1{font-size:15vw;line-height:1.35}.hero .subtitle{font-size:25px}.continuation{font-size:20px;margin-top:35px}.time-note{padding:24px}.time-note .large{font-size:26px}.about-note .italic{font-size:22px}}
+
+/* The honesty section shares the cover visual language. */
+#chapter-5{background:linear-gradient(90deg,rgba(15,24,18,.88),rgba(15,24,18,.74)),url('assets/vasilisa-art.jpg') center 58%/cover;color:#EEF39B;font-family:Arial,sans-serif}
+#chapter-5 .words .hero{font-family:Arial,sans-serif;font-weight:700;letter-spacing:-.045em;font-size:clamp(65px,8.5vw,125px);padding:25px 0}
+#chapter-5 .words .italic-large{font-style:normal;font-size:clamp(27px,3vw,42px)}
+#chapter-5 .index{opacity:.85}
